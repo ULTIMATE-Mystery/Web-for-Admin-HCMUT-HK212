@@ -281,6 +281,11 @@
               <img src="../../dummy/game10.jpg" alt="logo" width="100%" height="300px">
               <h2 style="text-align: center;">Price: $7,77</h2>
               <p>Description: THE NEW FANTASY ACTION RPG. Rise, Tarnished, and be guided by grace to brandish the power of the Elden Ring...</p>
+              <div class="center">
+              <?php
+              echo "<a href='index.php' class='btn btn-danger'>Back</a>";
+              ?>
+              </div>
             </div>
             <div class="aside">
               <h2 style="text-align: center;">User Purchased</h2>
